@@ -3,6 +3,6 @@ The TORCH Light Box design follows the basic design and features of existing lig
 
 Panel schematics and a poster presentation for SPNHC 2022 are available in [docs](/docs). Example images are in [images](/images).
 
-A detailed cut list and parts list will be added soon followed by assembly instructions. If you are interested in further details or contributing to the project, please contact us or add questions or comments in the [Discussions](https://github.com/TORCH-TCN/torch_light_box/discussions/).
+If you are interested in further details or contributing to the project, please contact us or add questions or comments in the [Discussions](https://github.com/TORCH-TCN/torch_light_box/discussions/).
 
 ![Example](/images/front_example1_med.jpg?raw=true "TORCH Light Box")
